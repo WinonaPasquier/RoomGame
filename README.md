@@ -1,5 +1,5 @@
-# DoorGameV1
-
+# DoorGame
+## DoorGameV1
 A simple game where you have to get out of a maze.
 It is a game which is in textual form which will be displayed in a python terminal.
 
