@@ -7,3 +7,4 @@ There is some comend that you can do
 help : resume the comand
 take [nameOfTheObject] : take an item
 quit : to quit the game
+![alt text](C:/Users/winon/Downloads/Figure_1.png)
